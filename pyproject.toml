@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "nuels_fun_with_peptides"
 version = "0.1.0"
-description = "This is a short project for our practical course "advanced python course". It takes a .fasa file with a list of proteins. The program will simulate the digestion of the proteins, a liquid chromatography and finaly a mass spectrometer. "
+description = "This is a short project for our practical course 'advanced python course'. It takes a .fasa file with a list of proteins. The program will simulate the digestion of the proteins, a liquid chromatography and finaly a mass spectrometer. "
 readme = "README.md"
 license = { text = "MIT" }
 authors = [{ name = "Nuels01" }]
@@ -13,10 +13,10 @@ requires-python = ">=3.10"
 dependencies = [
     "numpy",
     "pytest",
-    "matplotlib"
-    "pyteomics"
-    "ipykernel"
-    "pytest" # Add all required dependencies
+    "matplotlib",
+    "pyteomics",
+    "ipykernel",
+    "pytest", # Add all required dependencies
 ]
 
 [tool.setuptools.packages.find]
