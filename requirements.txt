@@ -4,3 +4,4 @@ matplotlib
 pyteomics
 ipykernel
 pytest
+pathlib
