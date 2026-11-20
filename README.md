@@ -29,11 +29,5 @@ to install all of them automatically.
 
 ## How to use the Package
 
-You need a .fasa file with a list of proteins in your folder. 
-
-```read_fasta(FILEPATH) ```  
-
-You digest the proteins with a choosen pattern.
-
-```digest_protein_collection(PROTEINS, PATTERN)```
+Take the ms_experiment_final.ipynb to see how the functions will be implemented. 
 
