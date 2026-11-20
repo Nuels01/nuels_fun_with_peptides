@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a short project for our practical course "advanced python course". It takes a .fasa file with a list of proteins. The program will simulate the digestion of the proteins, a liquid chromatography and finaly a mass spectrometer. 
+This is a short project for our practical course "advanced python course". It takes a .fasta file with a list of proteins. The program will simulate the digestion of the proteins, a liquid chromatography and finaly a mass spectrometer. 
 
 !!! the code is still under development !!!
 
