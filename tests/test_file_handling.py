@@ -3,7 +3,7 @@ from nuels_fun_with_peptides.file_handling import read_fasta
 
 TEST_DATA = Path(__file__).parent/ "test_data"
 
-def test_test_fasta_reader():
+def test_fasta_reader():
     tmp_fasta_path = TEST_DATA / "dummy_proteins.fasta"
     protein_map = read_fasta(tmp_fasta_path)
     
