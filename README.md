@@ -9,7 +9,7 @@ This is a short project for our practical course "advanced python course". It ta
 ## Requirements
 
 
-The following packages will be needed: 
+### Packages
 
 - numpy
 
@@ -23,9 +23,14 @@ The following packages will be needed:
 
 - pytest
 
-You can use 
-```pip install -r requirements.txt```
-to install all of them automatically.
+### Instalation
+
+```
+git clone https://github.com/Nuels01/nuels_fun_with_peptides
+cd nuels_fun_with_peptides
+pip install -e .
+```
+
 
 ## How to use the Package
 
